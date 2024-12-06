@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Roger Souza 👋
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, curioso e esforçado. 👨‍💻
 
-# My Contact🪢
+# My Contacts🪢
 
 [![Linkedin](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://rogger_souza@hotmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogersds)
