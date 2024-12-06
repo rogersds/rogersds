@@ -1,7 +1,13 @@
 ## Olá! Eu sou o Roger Souza 👋
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, curioso e esforçado. 👨‍💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogersouzaa/)
+# Contact with me 🪢
+
+[![Linkedin](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://rogger_souza@hotmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogersds)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogersouzaa/)
+
+#
 
 
 
@@ -12,7 +18,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rogersds&theme=midnight-purple" width="700">
 
-### Tecnologias que estudo no meu dia 📚
+# 
+# Tecnologias que estudo no meu dia 📚
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
@@ -25,8 +32,11 @@
 <img align="center" alt="Node js" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
 </div> <br>
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, curioso e esforçado. 👨‍💻
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogersds/rogersds/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogersds/rogersds/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rogersds/rogersds/output/github-contribution-grid-snake.svg">
+</picture>
 
 
-### E-mail para contato 📩
-rogger_souza@hotmail.com
