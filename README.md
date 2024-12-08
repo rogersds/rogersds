@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogersds)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogersouzaa/)
 
-#
+
 
 
 
@@ -31,6 +31,10 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 <img align="center" alt="mysql" src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
 <img align="center" alt="Node js" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
 </div> <br>
+
+## AWS Certification Badge
+
+![AWS Certification](./images/aws-certification.png)
 
 
 <picture align="center">
