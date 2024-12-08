@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Roger Souza 👋
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, curioso e esforçado. 👨‍💻
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, curioso e determinado. 👨‍💻
 
 # My Contacts🪢
 
@@ -32,9 +32,11 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 <img align="center" alt="Node js" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
 </div> <br>
 
-## AWS Certification Badge
+## Cloud Certifications 🏅
 
 ![AWS Certification](./images/aws-certification.png)
+![AWS Certification](./images/azure_certification_resized.png)
+
 
 
 <picture align="center">
