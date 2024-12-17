@@ -4,7 +4,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 # My Contacts🪢
 
 [![Linkedin](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://rogger_souza@hotmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogersds)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogersouzaa/)
 
 
@@ -16,7 +15,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 
 <img src="https://github-readme-stats.vercel.app/api?username=rogersds&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&layout=compact" alt="GitHub Stats for rogersds" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rogersds&theme=midnight-purple" width="700">
 
 # 
 # Tecnologias que estudo no meu dia 📚
@@ -39,10 +37,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogersds/rogersds/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogersds/rogersds/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rogersds/rogersds/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
