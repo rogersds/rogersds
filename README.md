@@ -11,10 +11,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, 
 
 
 
-## GiT Stats 
-
-<img src="https://github-readme-stats.vercel.app/api?username=rogersds&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&layout=compact" alt="GitHub Stats for rogersds" width="700">
-
 
 # 
 # Tecnologias que estudo no meu dia 📚
