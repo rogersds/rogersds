@@ -6,15 +6,6 @@
 - 🎓   Studying in Systems analysis and development at UNIVERSIDADE ESTÁCIO DE SÁ - UNESA.
 - 🌱   Learning more about Fullstack technologies.
 
-# My Contacts🪢
-
-[![Linkedin](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://rogger_souza@hotmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogersouzaa/)
-
-
-
-
-
 
 
 # 
@@ -36,7 +27,9 @@
 ## Cloud Certifications 🏅
 
 ![AWS Certification](./images/aws-certification.png)
-![AWS Certification](./images/azure_certification_resized.png)
+![azure Certification](./images/azure_certification_resized.png)
+![azure Certification](./images/IA-900.png)
+
 
 
 
