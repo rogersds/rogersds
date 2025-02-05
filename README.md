@@ -28,6 +28,7 @@
 
 ![AWS Certification](./images/aws-certification.png)
 ![azure Certification](./images/azure_certification_resized.png)
+![azure Certification](./images/dp-900.png)
 ![azure Certification](./images/IA-900.png)
 
 
