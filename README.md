@@ -1,5 +1,10 @@
 ## Olá! Eu sou o Roger Souza 👋
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, curioso e determinado. 👨‍💻
+
+## 🕵🏽‍♂️  About Me
+- 🤔   Exploring new technologies and developing software solutions.
+- 🎓   Studying in Back-end Developer in java.
+- 🎓   Studying in Systems analysis and development at UNIVERSIDADE ESTÁCIO DE SÁ - UNESA.
+- 🌱   Learning more about Fullstack technologies.
 
 # My Contacts🪢
 
